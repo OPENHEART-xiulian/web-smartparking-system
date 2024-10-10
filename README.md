@@ -6,7 +6,7 @@
 
 前端仓库地址：git@github.com:OPENHEART-xiulian/web-smartparking-system.git
 
-后端仓库地址：git@gitee.com:openheart_1/openheart-stopcar-pc.git
+后端仓库地址：git@github.com:OPENHEART-xiulian/service-smartparking-system.git
 
 # 内置功能
 
