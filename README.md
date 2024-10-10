@@ -94,4 +94,5 @@ https://smartparking.xlbzone.com/#/login
 ![输入图片说明](functionimg/%E5%9B%BE%E7%89%8710.png)
 
 # 联系我们
+<img src="img/企微图片.jpg" width="250px"/>
 ![输入图片说明](functionimg/%E4%BC%81%E5%BE%AE%E5%9B%BE%E7%89%87.jpg)
