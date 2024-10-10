@@ -4,7 +4,7 @@
 
 该智慧停车场开源项目为前后端分离架构，这个仓库为智慧停车场前端服务项目，前端基于Vue3.0版本结合TypeScript，UI框架采用elementPlus
 
-前端仓库地址：git@gitee.com:openheart_1/web-smartparking-system.git
+前端仓库地址：git@github.com:OPENHEART-xiulian/web-smartparking-system.git
 
 后端仓库地址：git@gitee.com:openheart_1/openheart-stopcar-pc.git
 
